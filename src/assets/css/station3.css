@@ -1,20 +1,20 @@
-card {
-    background: #fff;
-    padding: 5px;
-};
-
-card__img-top{
+.card__img-top{
     width: 288px;
     height: 182px;
-    margin: 3px;
-};
+    margin-bottom: 3px;
+}
 
-card__title{
+.card__title{
     color: #282828;
     font-size: 14px;
-};
+}
 
-card__description{
+.card__description{
     color: #282828;
     font-size: 12px;
+}
+
+.card {
+    background: #fff;
+    padding: 5px;
 }
